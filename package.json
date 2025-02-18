@@ -1,5 +1,6 @@
 {
   "name": "saas-proj",
+  "homepage": "https://mgo08.github.io/Saas/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
