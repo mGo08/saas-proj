@@ -789,6 +789,9 @@ video {
 .overflow-x-clip {
   overflow-x: clip;
 }
+.rounded-full {
+  border-radius: 9999px;
+}
 .rounded-lg {
   border-radius: 0.5rem;
 }
